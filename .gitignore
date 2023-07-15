@@ -1,0 +1,14 @@
+# Folder view configuration files
+env 
+/__pycache__
+.vscode
+.pyc
+.DS_Store
+Desktop.ini
+
+# Icon must end with two \r
+Icon
+
+# Thumbnail cache files
+._*
+Thumbs.db
