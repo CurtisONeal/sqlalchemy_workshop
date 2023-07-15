@@ -20,8 +20,7 @@
 
 # reminder for second commit.... if you just tried git push
 # git push --set-upstream origin main
-# starting up the app reminder to test for typos:
-# python3 app.py # to see the db created
 
-# https://teamtreehouse.com/library/using-the-requests-library/using-the-requests-library
-# httpbin.org
+
+# https://teamtreehouse.com/library/relational-databases-with-sqlalchemy/double-trouble
+
